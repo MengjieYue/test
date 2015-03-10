@@ -1,6 +1,5 @@
 package com.heymom.backend.dto;
 
-
-public class ActivityDto {
+public class UserDto {
 
 }
